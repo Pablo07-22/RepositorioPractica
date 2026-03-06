@@ -20,3 +20,30 @@ La Maquina de gestion de herramientas necesita:
 - Permisss a manejar
 
 ---
+## Estructuta del proyecto 🚧🏗️
+---
+```
+src/main/Python
+│
+├── main                 # Punto de entrada del programa
+│
+├── modulos
+│   ├── herramientas     # Gestión de herramientas
+│   ├── usuarios         # Gestión de usuarios
+│   ├── prestamos        # Gestión de préstamos
+│   ├── reportes         # Consultas y reportes
+│   └── logs             # Registro de eventos
+│
+├── datos
+│   ├── herramientas     # Persistencia de herramientas
+│   ├── usuarios         # Persistencia de usuarios
+│   └── prestamos        # Persistencia de préstamos
+│
+├── logs
+│   └── eventos          # Registro de eventos del sistema
+│
+└── pruebas/
+    ├── casos_entrada    # Casos de prueba de entrada
+    └── casos_salida.    # Resultados esperados
+```
+---

@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pablo ",
+        "apellido": "Navas ",
+        "telefono": "316360636",
+        "direccion": "casa 3"
+    },
+    {
+        "id": 2,
+        "nombre": "David ",
+        "apellido": "Dominguez ",
+        "telefono": "15524488",
+        "direccion": "calle 27 "
+    }
+]

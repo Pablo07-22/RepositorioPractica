@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Martillo ",
+        "herramienta": "4",
+        "categoria": "construccion",
+        "estado": "buen estado "
+    },
+    {
+        "id": 2,
+        "nombre": "Podadora ",
+        "herramienta": "3",
+        "categoria": "jardineria",
+        "estado": "buen estado "
+    },
+    {
+        "id": 3,
+        "nombre": "Gato ",
+        "herramienta": "5",
+        "categoria": "mecanica ",
+        "estado": "buen estado "
+    }
+]

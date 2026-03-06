@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "id_usuario": 1,
+        "id_herramienta": 3,
+        "cantidad": 2,
+        "fecha_inicio": "2026-02-20T10:01:07.438416",
+        "fecha_fin": "2026-02-25T10:01:07.438416",
+        "estado": "pendiente"
+    }
+]

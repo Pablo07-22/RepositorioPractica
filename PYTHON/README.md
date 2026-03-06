@@ -3,6 +3,7 @@
 Una app creada en Python para gestionar el prestamo de herramientas entre vecinos y no hallan confuciones, gestiona tambien el estado de las herramientas, tiene un administrador donde el es el que hace el prestamo de las herramientas y las apruba 
 
 ---
+
 ## Problematicas que resuelve 🔧
 ---
 La Maquina de gestion de herramientas necesita:
@@ -10,6 +11,7 @@ La Maquina de gestion de herramientas necesita:
 - Validar las operaciones segun el estado de la herramienta  
 - Mantiene un historial  completo del prestamo de las herramientas
 ---
+
 ### Funcionalidades Principales 🔊
 ---
 - Gestion de Herramientas 
@@ -20,6 +22,7 @@ La Maquina de gestion de herramientas necesita:
 - Permisss a manejar
 
 ---
+
 ## Estructuta del proyecto 🚧🏗️
 ---
 ```
@@ -47,3 +50,38 @@ src/main/Python
     └── casos_salida.    # Resultados esperados
 ```
 ---
+## Autor y análisis 🧠
+
+---
+Este proyecto fue  diseñado y desarrollado por [Juan Pablo Navas](mailto:correo@gmail.com)  incluyendo:
+
+- Análisis de requerimientos.
+- Diseño de un pequeño programa de prestamo de herramientas.
+- Validaciones, pruebas y control de calidad manual.
+---
+
+## Pendientes y mejoras futuras ✅
+---
+- Integración de Spring Security + JWT.
+- Pruebas automatizadas (unitarias/integración).
+- Documentación Swagger/OpenAPI.
+- Despliegue en la nube (Heroku, Render, etc.).
+
+---
+
+## Contacto 📫
+---
+¿Dudas o sugerencias? Puedes escribirme a:
+
+- 📧 juanpablonavasacosta22@gmail.com
+- 🌐 [3163606369]
+
+---
+
+## Licencia 📌 
+---
+Este proyecto está disponible para fines educativos y de demostración. No usar en producción sin autorización.
+
+---
+
+# GRACIAS POR SU COMPRENSION Y ATENCION   🧑‍💻 👔
